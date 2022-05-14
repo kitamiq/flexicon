@@ -11,13 +11,13 @@ Then execute inside program's directory:
 ```shell
 sudo bash install.sh
 ```
-##Usage examples
-###Installing a package
+## Usage examples
+### Installing a package
 ```
 flexicon install abstract
 flexicon install litterine
 ```
-###Primitive searching for a package
+### Primitive searching for a package
 ```
 flexicon update
 flexicon search [search query]
